@@ -16,8 +16,8 @@ This repository contains the setup for hosting a web application using NGINX wit
    ```bash
    docker build -t my-nginx-app .
 3. **Create a vloume to store the code
-    '''bash
-       mkdir /nginx/data -p
+   ```bash
+    mkdir /nginx/data -p
    
    ```
 5. **Run the Docker Container**: Start a container from the built image, mapping the necessary ports.
