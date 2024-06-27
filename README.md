@@ -9,7 +9,7 @@ This repository contains the setup for hosting a web application using NGINX wit
 ### Getting Started
 1. **Clone the Repository**: Download the project files from the repository.
    ```bash
-   git clone https://github.com/yourusername/your-nginx-docker-repo.git
+   git clone https://github.com/abhay-dandge/Docker-nginx-web
    cd your-nginx-docker-repo
    ```
 2. **Build the Docker Image**: Use the provided Dockerfile to build the Docker image.
